@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="schoolSystem" Class="ModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=WORKSTATION-PC\SQL2012;Initial Catalog=schoolSystem;Integrated Security=True" SettingsObjectName="Model.Properties.Settings" SettingsPropertyName="schoolSystemConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Aluno" Member="Aluno">
+    <Type Name="Aluno">
+      <Column Name="idAluno" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Endereco" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Cep" Type="System.String" DbType="VarChar(17)" CanBeNull="true" />
+      <Column Name="Telefone" Type="System.String" DbType="VarChar(17)" CanBeNull="true" />
+      <Column Name="Celular" Type="System.String" DbType="VarChar(17)" CanBeNull="true" />
+      <Column Name="dataNascimento" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="dataCadastro" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dataAtualizacao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Aluno_Curso" Member="Curso" ThisKey="idAluno" OtherKey="idAluno" Type="Curso" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Materia" Member="Materia">
+    <Type Name="Materia">
+      <Column Name="idMateria" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Descricao" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="dataCadastro" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dataAtualizacao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Materia_Curso" Member="Curso" ThisKey="idMateria" OtherKey="idMateria" Type="Curso" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Curso" Member="Curso">
+    <Type Name="Curso">
+      <Column Name="idCurso" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idAluno" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idMateria" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Descricao" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="dataCadastro" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dataAtualizacao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Materia_Curso" Member="Materia" ThisKey="idMateria" OtherKey="idMateria" Type="Materia" IsForeignKey="true" />
+      <Association Name="Aluno_Curso" Member="Aluno" ThisKey="idAluno" OtherKey="idAluno" Type="Aluno" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

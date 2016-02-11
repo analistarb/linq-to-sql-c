@@ -1,0 +1,26 @@
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\01) C#\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb

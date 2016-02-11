@@ -1,0 +1,12 @@
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\01) C#\SchoolSystem\Model\obj\Debug\Model.pdb
